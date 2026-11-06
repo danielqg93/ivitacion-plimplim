@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "INVITADO",
+        "apellidos": "DE PRUEBA",
+        "codigoInvitacion": "PLIM01"
+    },
+    {
+        "nombre": "AMIGUITO",
+        "apellidos": "EJEMPLO",
+        "codigoInvitacion": "PLIM02"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    { "hour": "03:00 pm", "event": "Recepción", "icon": "pin" },
+    { "hour": "03:30 pm", "event": "Juegos y burbujas mágicas", "icon": "balloon" },
+    { "hour": "04:00 pm", "event": "Ingreso del cumpleañero", "icon": "star" },
+    { "hour": "04:30 pm", "event": "Show infantil", "icon": "music" },
+    { "hour": "05:15 pm", "event": "Snacks y refrigerio", "icon": "food" },
+    { "hour": "05:45 pm", "event": "Hora loca", "icon": "party" },
+    { "hour": "06:15 pm", "event": "Piñata", "icon": "balloon" },
+    { "hour": "06:30 pm", "event": "Torta y cumpleaños feliz", "icon": "heart" }
+]

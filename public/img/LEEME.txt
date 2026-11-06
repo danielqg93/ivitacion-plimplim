@@ -1,0 +1,21 @@
+IMÁGENES QUE DEBES COLOCAR EN ESTA CARPETA (public/img/)
+=========================================================
+Si alguna falta, la invitación funciona igual: simplemente no se muestra.
+Los nombres se pueden cambiar en src/config.ts -> imagenes.
+
+  foto-cumple.jpg       Foto del cumpleañero/a. Fondo de la portada y de la
+                        sección "Comparte tus fotos". (Sin ella se ve un cielo azul.)
+                        Recomendado: vertical, mínimo 1200 px de alto.
+
+  plim-hero.png         Personaje de Plim Plim (PNG con fondo transparente).
+                        Aparece junto a "El tiempo vuela..." y como ícono de pestaña.
+
+  plim-saludo.png       Imagen pequeña y cuadrada (se recorta en círculo, 80x80)
+                        sobre la tarjeta con el nombre del invitado.
+
+  plim-bienvenida.png   Imagen de la ventana de bienvenida (~190 px de ancho).
+
+  galeria/*.jpg         Fotos para la galería. Después de copiarlas, agrega
+                        sus nombres en src/config.ts -> galeria.fotos
+                        (ej. ["1.jpg", "2.jpg"]). Si la lista está vacía,
+                        la sección de galería no aparece.
